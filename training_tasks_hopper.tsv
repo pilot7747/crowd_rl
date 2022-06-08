@@ -1,0 +1,12 @@
+INPUT:video1	INPUT:video2	GOLDEN:result	HINT:text
+https://storage.yandexcloud.net/rlpairstraining/103_27_0.mp4	https://storage.yandexcloud.net/rlpairstraining/103_36_0.mp4	right	Wrong! Another video closer to the successful backflip
+https://storage.yandexcloud.net/rlpairstraining/103_93_0.mp4	https://storage.yandexcloud.net/rlpairstraining/103_14_1.mp4	left	Wrong! Another video closer to the successful backflip
+https://storage.yandexcloud.net/rlpairstraining/103_48_1.mp4	https://storage.yandexcloud.net/rlpairstraining/103_48_0.mp4	left	Wrong! Another video closer to the successful backflip
+https://storage.yandexcloud.net/rlpairstraining/107_39_1.mp4	https://storage.yandexcloud.net/rlpairstraining/107_23_0.mp4	right	Wrong! Another video closer to the successful backflip
+https://storage.yandexcloud.net/rlpairstraining/107_23_1.mp4	https://storage.yandexcloud.net/rlpairstraining/107_71_1.mp4	right	Wrong! Another video closer to the successful backflip
+https://storage.yandexcloud.net/rlpairstraining/107_39_0.mp4	https://storage.yandexcloud.net/rlpairstraining/107_71_0.mp4	right	Wrong! Another video closer to the successful backflip
+https://storage.yandexcloud.net/rlpairstraining/85_11_1.mp4	https://storage.yandexcloud.net/rlpairstraining/85_10_0.mp4	left	Wrong! Another video closer to the successful backflip
+https://storage.yandexcloud.net/rlpairstraining/85_85_1.mp4	https://storage.yandexcloud.net/rlpairstraining/85_69_1.mp4	right	Wrong! Another video closer to the successful backflip
+https://storage.yandexcloud.net/rlpairstraining/85_69_0.mp4	https://storage.yandexcloud.net/rlpairstraining/85_85_0.mp4	left	Wrong! Another video closer to the successful backflip
+https://storage.yandexcloud.net/rlpairstraining/103_60_0.mp4	https://storage.yandexcloud.net/rlpairstraining/62_31_1.mp4	right	Wrong! Another video closer to the successful backflip
+			
